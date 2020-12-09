@@ -14,7 +14,7 @@ The auto_scraper.py script scrapes job posts from the website using a search que
 
 ### Cloning the project:
 ```
-git clone https://gitlab.com/careermap/scraping/scraping_automation.git
+git clone https://github.com/mohdsaqibhbi/scraping_JobDesc.git
 ```
 
 ### Setting up the Virtual Environment
